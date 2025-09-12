@@ -6,12 +6,13 @@ list.append(int(input("Enter number 3: ")))
 list.append(int(input("Enter number 4: ")))
 list.append(int(input("Enter number 5: ")))
 
-list.append(list[0])
-list.append(list[1])
-list.append(list[2])
-list.append(list[3])
-list.append(list[4])
+# list.append(list[0])
+# list.append(list[1])
+# list.append(list[2])
+# list.append(list[3])
+# list.append(list[4])
 
+print(list)
 positivenumber=0
 negetivenumber=0
 zero=0
