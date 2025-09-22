@@ -13,8 +13,10 @@ for i in responce:
     # print(ingredients)
     
     if ingredients!=None:
-        # print(ingredients)
-        for j in ingredients:
-            if a in j:
-                print(json.dumps(i,indent=3))
+        # for j in ingredients:
+        #     if a in j:
+        #         print(json.dumps(i,indent=3))
+        
+        if a in ingredients:
+            print(json.dumps(i,indent=3))
     
