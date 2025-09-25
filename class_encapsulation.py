@@ -19,6 +19,8 @@ class Loan:
     def validworkexperience(self):
         self.__workexperience=int(input("Please enter your Work experience: "))
         return self.__workexperience
+    def updateloanamount(self):
+        self.__loanamount=int(input("enter laon amount: "))
         
 ob=Loan()
 
