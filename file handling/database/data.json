@@ -1,0 +1,28 @@
+[
+  {
+    "id": "101",
+    "name": "kailash",
+    "address": "gurgaon",
+    "email": "k@gmail.com",
+    "qualifications": [
+      {
+        "qname": "10th",
+        "qyear": "2022"
+      }
+    ],
+    "registration_date&time": "2025-09-16 13:42:24.161768"
+  },
+  {
+    "id": "103",
+    "name": "rohit",
+    "address": "bageshwar",
+    "email": "rohit@gmail.com",
+    "qualifications": [
+      {
+        "qname": "12",
+        "qyear": "2025"
+      }
+    ],
+    "registration_date&time": "2025-09-16 15:25:21.266999"
+  }
+]
